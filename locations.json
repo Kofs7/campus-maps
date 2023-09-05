@@ -1,0 +1,182 @@
+{
+    "COAS": {
+        "Full name": "College of Arts and Sciences",
+        "Location": "Alain Locke Hall"
+    },
+    "SOB": {
+        "Full name": "School of Business",
+        "Location": "2600 6th St NW"
+    },
+    "SOC": {
+        "Full name": "School of Communication",
+        "Location": "300 Bryant St NW"
+    },
+    "COD": {
+        "Full name": "College of Dentistry",
+        "Location": "200 W St NW"
+    },
+    "SOD": {
+        "Full name": "College of Dentistry",
+        "Location": "2900 Van Ness St NW"
+    },
+    "SOE": {
+        "Full name": "School of Education",
+        "Location": "2441 4th St NW"
+    },
+    "CEA": {
+        "Full name": "College of Engineering and Architecture",
+        "Location": "2300 6th St NW"
+    },
+    "COFA": {
+        "Full name": "College of Fine Arts",
+        "Location": "Childers Hall"
+    },
+    "SOL": {
+        "Full name": "School of Law",
+        "Location": "2900 Van Ness St NW"
+    },
+    "HUCM": {
+        "Full name": "College of Dentistry",
+        "Location": "520 W St NW"
+    },
+    "CPNAHS": {
+        "Full name": "College of Dentistry",
+        "Location": "2300 4th St NW"
+    },
+    "SSW": {
+        "Full name": "College of Dentistry",
+        "Location": "601 Howard Place NW"
+    },
+    "ACH": {
+        "Full name": "Andrew Carnegie Hall",
+        "Location": "2395 6th St NW"
+    },
+    "Blackburn": {
+        "Full name": "Armour Blackburn University Center",
+        "Location": "2397 6th St NW"
+    },
+    "CRC": {
+        "Full name": "Cancer Research Center",
+        "Location": "2041 Georgia Ave NW #220"
+    },
+    "CBPB": {
+        "Full name": "CB Powell Building",
+        "Location": "525 Bryant St NW"
+    },
+    "Drew": {
+        "Full name": "Charles Drew Hall",
+        "Location": "511 Gresham Place NW"
+    },
+    "CHN": {
+        "Full name": "College Hall North",
+        "Location": "2229 4th St NW"
+    },
+    "CHS": {
+        "Full name": "College Hall South",
+        "Location": "2135 F St NW"
+    },
+    "ELC": {
+        "Full name": "Early Learning Center",
+        "Location": "531 College St NW"
+    },
+    "EJH": {
+        "Full name": "Ernest Just Hall",
+        "Location": ""
+    },
+    "Founders": {
+        "Full name": "Founders Library",
+        "Location": "500 Howard Place NW"
+    },
+    "UGL": {
+        "Full name": "Undergraduate Library",
+        "Location": "470 Howard Place NW"
+    },
+    "Douglass": {
+        "Full name": "Frederick Douglass Memorial Hall",
+        "Location": "2419 6th St NW"
+    },
+    "Cook": {
+        "Full name": "George Cook Hall",
+        "Location": "601 Fairmont St NW"
+    },
+    "Quad": {
+        "Full name": "Harriett Tubman Quandrangle",
+        "Location": "2455 4th St NW"
+    },
+    "Mackey": {
+        "Full name": "Howard Mackey Building",
+        "Location": "3 Howard Place NW"
+    },
+    "West Towers": {
+        "Full name": "Howard Plaza Towers (West)",
+        "Location": "2251 Sherman Ave NW"
+    },
+    "East Towers": {
+        "Full name": "Howard Plaza Towers (East)",
+        "Location": "2251 Sherman Ave NW"
+    },
+    "Bookstore": {
+        "Full name": "Howard University Bookstore",
+        "Location": "B&N 8102, 2225 Georgia Ave NW"
+    },
+    "HUH": {
+        "Full name": "Howard University Hospital",
+        "Location": ""
+    },
+    "iLab": {
+        "Full name": "iLab",
+        "Location": "2301 Georgia Ave NW"
+    },
+    "Burr": {
+        "Full name": "John Burr Gymnasium Building",
+        "Location": ""
+    },
+    "Cramton": {
+        "Full name": "Louis Cramton Auditorium",
+        "Location": "2455 6th St NW"
+    },
+    "LKD": {
+        "Full name": "Louis K Downing Hall",
+        "Location": ""
+    },
+    "LSH": {
+        "Full name": "Louis Stokes Health Sciences Library",
+        "Location": "501 W St NW"
+    },
+    "Annex": {
+        "Full name": "Mary Bethune Annex",
+        "Location": "2225 4th St NW"
+    },
+    "Annex Dining Hall": {
+        "Full name": "Mary Bethune Annex Dining Hall",
+        "Location": "2225 4th St NW"
+    },
+    "A Building": {
+        "Full name": "Mordecai Johnson Admin. Building",
+        "Location": ""
+    },
+    "OHH": {
+        "Full name": "Oliver Howard Hall",
+        "Location": "607 Howard Place NW"
+    },
+    "RBC": {
+        "Full name": "Ralph Bunche Center",
+        "Location": "2218 6th St NW"
+    },
+    "WR": {
+        "Full name": "WHUR-Radio",
+        "Location": "529 Bryant St NW"
+    },
+    "WT": {
+        "Full name": "WHUT-TV",
+        "Location": "2222 4th St NW"
+    },
+    "WTH": {
+        "Full name": "Wilbur Thirkield Hall",
+        "Location": "2355 6th St NW"
+    },
+    "Greene": {
+        "Full name": "Williams Greene Memorial Stadium",
+        "Location": "6th and Girard St NW"
+    }
+}

@@ -1,0 +1,17 @@
+boto3==1.28.40
+botocore==1.31.40
+CacheControl==0.13.1
+certifi==2023.7.22
+charset-normalizer==3.2.0
+idna==3.4
+iso3166==2.1.1
+jmespath==1.0.1
+mapbox==0.18.1
+msgpack==1.0.5
+polyline==2.0.0
+python-dateutil==2.8.2
+requests==2.31.0
+s3transfer==0.6.2
+six==1.16.0
+uritemplate==4.1.1
+urllib3==1.26.16
